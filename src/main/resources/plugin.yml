@@ -1,0 +1,5 @@
+name: WeichApi
+version: v1.051
+main: de.slowloris.example.main.Main
+author: Weichtier
+commands:
